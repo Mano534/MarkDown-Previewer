@@ -1,0 +1,11 @@
+$my-red : rgb(250, 129, 129) ; 
+$mutted : rgb(255, 255, 255);
+
+
+
+
+.bg-my-red{
+    background-color: $my-red;
+    color : $mutted ; 
+    
+}

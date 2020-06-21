@@ -1,0 +1,24 @@
+@media (max-width : 567px){
+    .special{
+        width : 50%;
+    }
+}
+textarea.form-control {
+    min-height: 30vh;
+}
+$my-red : rgb(250, 129, 129) ; 
+$mutted : rgb(255, 255, 255);
+
+
+
+
+textarea.form-control {
+    background-color: $my-red;
+    color : $mutted ; 
+    
+}
+textarea.form-control:focus{
+    background-color: rgb(255, 225, 225);
+    color : black ; 
+    
+}

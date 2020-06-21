@@ -1,0 +1,15 @@
+body{
+    background:  rgb(245, 167, 167) !important;
+    margin: 0px;
+    padding: 0px;
+}
+@import './styles/__first-component';
+@import './styles/_previewer-styles';
+.icon{
+    cursor: pointer;
+color : rgb(163, 0, 0)
+}
+.icon:hover{
+
+color : rgb(19, 0, 0)
+}
